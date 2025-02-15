@@ -477,3 +477,9 @@
     padding-right: 0;
     border-right: none;
 }
+.frame{
+    min-height: 350px;
+    border: 0;
+    width: 600;
+    height: 450;
+}
